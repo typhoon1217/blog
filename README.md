@@ -1,4 +1,4 @@
-# Blog Project
+# Blog Project(alpha)
 
 ## 개발환경
 - **OS:** Arch Linux
