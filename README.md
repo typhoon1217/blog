@@ -1,6 +1,6 @@
 # Blog Project
 
-## 개발중 
+- 개발중 
 
 ## 개발환경
 - **OS:** Arch Linux
