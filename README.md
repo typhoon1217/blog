@@ -21,9 +21,6 @@
 - [API 명세서 문서](documents/rest_api_specification.md)
 
 
-## ERD
-![ERD](documents/ERD.png)
-
 ## 진행 상황
 - **객체 관계도 설계 (ERD)**
 - **명세서 설계**
@@ -33,3 +30,6 @@
   - DCL
   - DDL 
 
+
+## ERD
+![ERD](documents/ERD.png)
