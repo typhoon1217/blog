@@ -32,9 +32,11 @@
 - [API 명세서 문서](documents/rest_api_specification.md)
 
 
-
 ## ERD
+
 <details>
   <summary>ERD</summary>
-![ERD](documents/ERD.png)
+
+  ![ERD](documents/ERD.png)
+
 </details>
