@@ -29,14 +29,12 @@
 
 
 ## API 명세서
-<details>
-  <summary>API 명세서</summary>
-
 - [API 명세서 문서](documents/rest_api_specification.md)
-
-</details>
 
 
 
 ## ERD
+<details>
+  <summary>ERD</summary>
 ![ERD](documents/ERD.png)
+</details>
