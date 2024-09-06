@@ -8,7 +8,8 @@
 - **npm:** 10.8.3
 - **Gradle:** 8.10
 - **Spring Boot:** 2.7.14
-- **MySQL:** Ver 9.0.1 for Linux on x86_64 (MySQL Community Server - GPL)
+- **MySQL:** 9.0.1 for Linux on x86_64 (MySQL Community Server - GPL)
+- **Docker:** 27.2.0
 
 ## 사용 기술 목록
 - **Spring Boot (Gradle)**
@@ -22,4 +23,7 @@
 - **명세서 설계**
 - **프로젝트 폴더 구성**
 - **DB 구성**
-- **MySQL**
+  -DML
+  -DCL
+  -DDL 
+
