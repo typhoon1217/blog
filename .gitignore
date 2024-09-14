@@ -41,3 +41,8 @@ Thumbs.db
 
 #DCL
 /db/DCL.sql
+
+##
+*.properties
+*.env
+
