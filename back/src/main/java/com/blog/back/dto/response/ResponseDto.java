@@ -1,4 +1,4 @@
-package com.blog.back.dto;
+package com.blog.back.dto.response;
 
 import com.blog.back.common.ResponseCode;
 import com.blog.back.common.ResponseMessage;
