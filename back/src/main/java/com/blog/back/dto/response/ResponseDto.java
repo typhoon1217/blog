@@ -11,15 +11,11 @@ import org.springframework.http.ResponseEntity;
 @AllArgsConstructor
 public class ResponseDto {
 
-    private String code;
-    private String messge;
+  private String code;
+  private String messge;
 
-    public ResponseDto(String databaseError, String databaseError1) {
-    }
-
-    public  static ResponseEntity<ResponseDto> datahaseError(){
-        ResponseDto responseBody = new ResponseDto(ResponseCode.DATABASE_ERROR, ResponseMessage.DATABASE_ERROR);
-        return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(responseBody);
-    }
+  public static ResponseEntity<ResponseDto> datahaseError() {
+    ResponseDto responseBody = new ResponseDto(ResponseCode.DATABASE_ERROR, ResponseMessage.DATABASE_ERROR);
+    return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(responseBody);
+  }
 }
-
